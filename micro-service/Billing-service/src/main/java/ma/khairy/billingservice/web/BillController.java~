@@ -1,0 +1,4 @@
+package ma.khairy.billingservice.web;
+
+public class BillController {
+}

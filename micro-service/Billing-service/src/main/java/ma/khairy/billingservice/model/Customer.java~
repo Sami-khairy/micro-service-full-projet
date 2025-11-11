@@ -1,0 +1,4 @@
+package ma.khairy.billingservice.model;
+
+public class Customer {
+}

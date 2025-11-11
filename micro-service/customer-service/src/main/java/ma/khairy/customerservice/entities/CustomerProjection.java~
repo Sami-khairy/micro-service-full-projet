@@ -1,0 +1,4 @@
+package ma.khairy.customerservice.entities;
+
+public interface CustomerProjection {
+}

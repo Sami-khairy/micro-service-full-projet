@@ -1,0 +1,4 @@
+package ma.khairy.customerservice.repositories;
+
+public interface CustomerRepository extends JpaaRepository<Customer, Long> {
+}

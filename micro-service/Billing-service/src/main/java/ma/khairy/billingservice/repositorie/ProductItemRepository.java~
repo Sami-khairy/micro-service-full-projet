@@ -1,0 +1,4 @@
+package ma.khairy.billingservice.repositorie;
+
+public interface ProductItemRepository {
+}

@@ -1,0 +1,4 @@
+package ma.khairy.customerservice.config;
+
+public class RestRepositoryConfig {
+}

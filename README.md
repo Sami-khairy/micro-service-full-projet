@@ -2,6 +2,9 @@
 
 This project demonstrates a complete microservice architecture using Spring Boot and Spring Cloud. It consists of several independent services that communicate with each other to provide a billing system functionality.
 
+## Application Overview
+![Image](https://github.com/user-attachments/assets/7bb1d082-95ad-48f4-8c97-18ebf51199b7)
+
 ## 🏗 Architecture Overview
 
 The system is built with the following core components:

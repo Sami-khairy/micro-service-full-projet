@@ -5,6 +5,8 @@ This project demonstrates a complete microservice architecture using Spring Boot
 ## Application Overview
 ![Image](https://github.com/user-attachments/assets/7bb1d082-95ad-48f4-8c97-18ebf51199b7)
 ![Image](https://github.com/user-attachments/assets/730ca4f4-a9f5-4a48-80ea-0cd88028f020)
+![Image](https://github.com/user-attachments/assets/706d56a8-ab76-4a5a-a7c8-66644cd01bc2)
+![Image](https://github.com/user-attachments/assets/26f2fc52-846d-412e-9e4a-e96f6c88fe46)
 
 ## 🏗 Architecture Overview
 

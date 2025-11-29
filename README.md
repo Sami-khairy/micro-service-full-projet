@@ -1,4 +1,4 @@
-# Microservice Architecture Project
+# Microservice Architecture Project & Mcp Serveur with Telegram
 
 This project demonstrates a complete microservice architecture using Spring Boot and Spring Cloud. It consists of several independent services that communicate with each other to provide a billing system functionality.
 
@@ -7,6 +7,7 @@ This project demonstrates a complete microservice architecture using Spring Boot
 ![Image](https://github.com/user-attachments/assets/730ca4f4-a9f5-4a48-80ea-0cd88028f020)
 ![Image](https://github.com/user-attachments/assets/706d56a8-ab76-4a5a-a7c8-66644cd01bc2)
 ![Image](https://github.com/user-attachments/assets/26f2fc52-846d-412e-9e4a-e96f6c88fe46)
+![Image](https://github.com/user-attachments/assets/21dc9c3d-4dc6-4239-8136-6d6526a14318)
 
 ## 🏗 Architecture Overview
 
